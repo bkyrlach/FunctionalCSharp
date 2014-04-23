@@ -1,0 +1,8 @@
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\CoinFlipFP\bin\Debug\CoinFlipFP.exe.config
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\CoinFlipFP\obj\Debug\CoinFlipFP.csprojResolveAssemblyReference.cache
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\CoinFlipFP\bin\Debug\CoinFlipFP.exe
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\CoinFlipFP\bin\Debug\CoinFlipFP.pdb
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\CoinFlipFP\bin\Debug\Functional.dll
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\CoinFlipFP\bin\Debug\Functional.pdb
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\CoinFlipFP\obj\Debug\CoinFlipFP.exe
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\CoinFlipFP\obj\Debug\CoinFlipFP.pdb

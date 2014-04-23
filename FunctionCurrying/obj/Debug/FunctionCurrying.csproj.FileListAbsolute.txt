@@ -1,0 +1,8 @@
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\FunctionCurrying\bin\Debug\FunctionCurrying.exe.config
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\FunctionCurrying\bin\Debug\FunctionCurrying.exe
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\FunctionCurrying\bin\Debug\FunctionCurrying.pdb
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\FunctionCurrying\bin\Debug\Functional.dll
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\FunctionCurrying\bin\Debug\Functional.pdb
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\FunctionCurrying\obj\Debug\FunctionCurrying.csprojResolveAssemblyReference.cache
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\FunctionCurrying\obj\Debug\FunctionCurrying.exe
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\FunctionCurrying\obj\Debug\FunctionCurrying.pdb

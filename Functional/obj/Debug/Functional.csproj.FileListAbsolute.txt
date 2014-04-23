@@ -1,0 +1,5 @@
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\Functional\obj\Debug\Functional.csprojResolveAssemblyReference.cache
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\Functional\bin\Debug\Functional.dll
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\Functional\bin\Debug\Functional.pdb
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\Functional\obj\Debug\Functional.dll
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\Functional\obj\Debug\Functional.pdb

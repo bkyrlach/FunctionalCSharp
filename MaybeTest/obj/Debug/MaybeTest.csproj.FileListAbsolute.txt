@@ -1,0 +1,8 @@
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\MaybeTest\bin\Debug\MaybeTest.exe.config
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\MaybeTest\bin\Debug\MaybeTest.exe
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\MaybeTest\bin\Debug\MaybeTest.pdb
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\MaybeTest\bin\Debug\Functional.dll
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\MaybeTest\bin\Debug\Functional.pdb
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\MaybeTest\obj\Debug\MaybeTest.csprojResolveAssemblyReference.cache
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\MaybeTest\obj\Debug\MaybeTest.exe
+c:\users\bkrylach\documents\visual studio 2013\Projects\CoinFlipFP\MaybeTest\obj\Debug\MaybeTest.pdb
